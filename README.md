@@ -1,7 +1,6 @@
 # Jargonist için geliştirilmiş komut satırı uygulaması
 - Bu uygulama sayesinde jargonist'te mevcut olan jargonları görebilir ve jargonlar hakkında bilgiye komut satırından ulaşabilirsiniz.
 - https://jargon.ist
-![Jargonist](https://media.giphy.com/media/dJa2wxxqGkH3oGV83a/giphy.gif)
 ## Kurulum
 ```
 npm install -g jargonist-cli
