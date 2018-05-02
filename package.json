@@ -1,6 +1,6 @@
 {
   "name": "jargonist-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI Tool for jargon.ist",
   "main": "index.js",
   "preferGlobal": true,
