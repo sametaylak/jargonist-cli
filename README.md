@@ -9,17 +9,17 @@ npm install -g jargonist-cli
 Uygulamayı sisteminize global bir şekilde kurmalısınız. 
 ## Kullanım
 ```
-jargonist-cli list
+jargon list
 ```
 Jargonist'te mevcut olan tüm jargonları görebilirsiniz.
 
 ```
-jargonist-cli look <jargon>
+jargon look <jargon>
 ```
 Jargonist üzerinde jargon araması yapabilir ve detaylarını görebilirsiniz.
 ## Örnek Kod
 ```
-jargonist-cli look array
+jargon look array
 
 --ÇIKTI--
 ARRAY
