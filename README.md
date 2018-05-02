@@ -16,5 +16,21 @@ Jargonist'te mevcut olan tüm jargonları görebilirsiniz.
 jargonist-cli look <jargon>
 ```
 Jargonist üzerinde jargon araması yapabilir ve detaylarını görebilirsiniz.
+## Örnek Kod
+```
+jargonist-cli look array
+
+--ÇIKTI--
+ARRAY
+Array, içeriğine dizinle (satır numarasıyla) erişilen bir veri grubu oluşturmak için kullanılan bir data structuredır.
+Örnek olarak;
+
+Code Block
+// Array oluşturmak
+var myArray = ['a', 'b', 'c'];
+
+// Arrayden bir elemanı okumak
+myArray[1]; // 'b'
+```
 
 
